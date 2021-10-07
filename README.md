@@ -1,2 +1,15 @@
-# Tic-tac-toe-command-line-game-with-AI
-An Unbeatable Bot: Hard level  To start this command line game use:  start p1 p2  P1: the first parameter  p2: the second parameter   parameters can be: user, easy, medium and hard  To exit use the exit command
+# Tic-tac-toe-command-line-game-with-AI; An Unbeatable Bot
+## I have implement the minimax algorithm to make it unbeatable.
+
+## Commands to play the game
+> start **p1** **p2** **level**
+
+p1 and p2 = might be one from **bot** and **user** </br>
+level = **easy**, **medium** or **hard**.
+
+
+## to play with bot 
+> start user bot medium 
+
+This indicates that the user (you) will play with a bot whose intelligence level is set to medium.
+
