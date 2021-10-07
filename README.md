@@ -11,5 +11,7 @@ level = **easy**, **medium** or **hard**.
 ## to play with bot 
 > start user bot medium 
 
-This indicates that the user (you) will play with a bot whose intelligence level is set to medium.
+**This indicates that the user (you) will play with a bot whose intelligence level is set to medium. </br>
+More information is available on [YouTube](https://youtu.be/kyf02aaAVM8).**
+
 
